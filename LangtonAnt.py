@@ -616,7 +616,7 @@ class ControlApp(tk.Frame, object):
         for c in data['pattern']:
             if c not in ('R', 'L'):
                 self.raise_error(message = 'Pattern should only consists of'\
-                                 'R and L.')
+                                 ' R and L.')
                 return -1
 
         if data['dt'] <= 0:
