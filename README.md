@@ -14,3 +14,6 @@
   - Built with PyInstaller (http://www.pyinstaller.org/)
 
 - Ant image : from https://thenounproject.com/term/ant/1352/
+
+- Screenshot :
+![langtonant](https://drive.google.com/file/d/0B22iSvSqknL4a25qWVpnOFhYaDA/view?usp=sharing)
