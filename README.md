@@ -16,4 +16,5 @@
 - Ant image : from https://thenounproject.com/term/ant/1352/
 
 - Screenshot :
-![langtonant](http://i65.tinypic.com/ruoghi.png)
+- 
+![langtonant](http://i65.tinypic.com/icpa0y.png)
