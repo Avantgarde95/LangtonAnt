@@ -9,7 +9,7 @@
   - Pillow (https://pypi.python.org/pypi/Pillow)
 
 - Stand-alone binaries are available for some platforms.
-  - LangtonAnt.exe in build_windows (Built on Windows 10 64bit)
+  - LangtonAnt.exe in build_windows (Built on Windows 10)
   - LangtonAnt in build_linux (Built on Ubuntu 14.04.4 LTS)
   - Built with PyInstaller (http://www.pyinstaller.org/)
 
