@@ -8,9 +8,9 @@
   - python 2.7 with Tkinter support
   - Pillow (https://pypi.python.org/pypi/Pillow)
 
-- Stand-alone binaries are available.
-  - LangtonAnt.exe in build_windows
-  - LangtonAnt in build_linux
+- Stand-alone binaries are available for some platforms.
+  - LangtonAnt.exe in build_windows (Built on Windows 10 64bit)
+  - LangtonAnt in build_linux (Built on Ubuntu 14.04.4 LTS)
   - Built with PyInstaller (http://www.pyinstaller.org/)
 
 - Ant image : from https://thenounproject.com/term/ant/1352/
